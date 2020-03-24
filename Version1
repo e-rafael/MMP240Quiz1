@@ -8,7 +8,7 @@
     <style>
     <!-- Type CSS here -->
     .container{
-    display:flex:
+    display:flex;
     }
         
     </style>
